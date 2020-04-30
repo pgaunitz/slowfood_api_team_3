@@ -2,7 +2,7 @@
 
 # Coveralls
 
-[![Coverage Status](https://coveralls.io/repos/github/CraftAcademy/slowfood-client-team-3/badge.svg?branch=development)](https://coveralls.io/github/CraftAcademy/slowfood-client-team-3?branch=development)
+[![Build Status](https://semaphoreci.com/api/v1/pierre-1/slowfood_api_team_3/branches/development/badge.svg)](https://semaphoreci.com/pierre-1/slowfood_api_team_3)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
